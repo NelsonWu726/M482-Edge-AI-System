@@ -1,0 +1,28 @@
+
+# Keil build outputs
+**/Objects/
+**/Listings/
+**/obj/
+*.axf
+*.hex
+*.bin
+*.o
+*.crf
+*.d
+*.uvoptx
+*.uvguix.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+
+# Vue / Node.js
+node_modules/
+dist/
+
+# Local secrets
+wifi_secrets.h
+  
