@@ -64,3 +64,7 @@ other third-party libraries.
 
 Third-party components remain subject to
 their respective licenses.
+
+## System Architecture
+
+![M482 Edge AI System Architecture](images/M482_Edge_AI_Architecture.svg)
