@@ -26,3 +26,8 @@ dist/
 # Local secrets
 wifi_secrets.h
   
+**/lst/
+*.uvguix
+
+# Keil RTE backup files
+*.base@*
